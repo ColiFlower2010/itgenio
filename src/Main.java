@@ -41,8 +41,7 @@ public class Main {
 
          */
 
-        // Task 1
-
+        System.out.println("Hello, how are you?");
 
     }
 
